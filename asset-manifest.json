@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/talch.github.io/monshters-rolodex/static/css/main.4f9108d4.chunk.css",
-    "main.js": "/talch.github.io/monshters-rolodex/static/js/main.c3f821c4.chunk.js",
-    "main.js.map": "/talch.github.io/monshters-rolodex/static/js/main.c3f821c4.chunk.js.map",
-    "runtime-main.js": "/talch.github.io/monshters-rolodex/static/js/runtime-main.3f0c6660.js",
-    "runtime-main.js.map": "/talch.github.io/monshters-rolodex/static/js/runtime-main.3f0c6660.js.map",
-    "static/js/2.05463ef1.chunk.js": "/talch.github.io/monshters-rolodex/static/js/2.05463ef1.chunk.js",
-    "static/js/2.05463ef1.chunk.js.map": "/talch.github.io/monshters-rolodex/static/js/2.05463ef1.chunk.js.map",
-    "index.html": "/talch.github.io/monshters-rolodex/index.html",
-    "precache-manifest.d23299d5f671d779c3829e016b7c52d3.js": "/talch.github.io/monshters-rolodex/precache-manifest.d23299d5f671d779c3829e016b7c52d3.js",
-    "service-worker.js": "/talch.github.io/monshters-rolodex/service-worker.js",
-    "static/css/main.4f9108d4.chunk.css.map": "/talch.github.io/monshters-rolodex/static/css/main.4f9108d4.chunk.css.map",
-    "static/js/2.05463ef1.chunk.js.LICENSE.txt": "/talch.github.io/monshters-rolodex/static/js/2.05463ef1.chunk.js.LICENSE.txt"
+    "main.css": "/talch.github.io/monsters-rolodex/static/css/main.4f9108d4.chunk.css",
+    "main.js": "/talch.github.io/monsters-rolodex/static/js/main.eff73e42.chunk.js",
+    "main.js.map": "/talch.github.io/monsters-rolodex/static/js/main.eff73e42.chunk.js.map",
+    "runtime-main.js": "/talch.github.io/monsters-rolodex/static/js/runtime-main.82bf3f13.js",
+    "runtime-main.js.map": "/talch.github.io/monsters-rolodex/static/js/runtime-main.82bf3f13.js.map",
+    "static/js/2.05463ef1.chunk.js": "/talch.github.io/monsters-rolodex/static/js/2.05463ef1.chunk.js",
+    "static/js/2.05463ef1.chunk.js.map": "/talch.github.io/monsters-rolodex/static/js/2.05463ef1.chunk.js.map",
+    "index.html": "/talch.github.io/monsters-rolodex/index.html",
+    "precache-manifest.7e2cbc78e1bd7b6616515189862cf197.js": "/talch.github.io/monsters-rolodex/precache-manifest.7e2cbc78e1bd7b6616515189862cf197.js",
+    "service-worker.js": "/talch.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.4f9108d4.chunk.css.map": "/talch.github.io/monsters-rolodex/static/css/main.4f9108d4.chunk.css.map",
+    "static/js/2.05463ef1.chunk.js.LICENSE.txt": "/talch.github.io/monsters-rolodex/static/js/2.05463ef1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f0c6660.js",
+    "static/js/runtime-main.82bf3f13.js",
     "static/js/2.05463ef1.chunk.js",
     "static/css/main.4f9108d4.chunk.css",
-    "static/js/main.c3f821c4.chunk.js"
+    "static/js/main.eff73e42.chunk.js"
   ]
 }
